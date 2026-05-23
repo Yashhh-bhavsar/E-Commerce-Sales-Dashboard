@@ -31,3 +31,9 @@ Learned to create interactive, user-friendly reports.
 Gained experience in applying real-world business scenarios to analytics.
 
 This project is a stepping stone in my journey as a Data Analytics & BI professional, and I am continuously exploring and learning new techniques to improve my skills.
+
+The screenshot below represents the complete interactive dashboard developed in Power BI for analyzing e-commerce business performance.
+
+
+
+
